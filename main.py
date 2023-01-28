@@ -18,7 +18,6 @@ def start_command(update, context):
         f'''Halo {fistname} {lastname} !!\n\n'''
         "Selamat datang di TeleAi, kamu bisa "
         "bertanya-tanya ataupun melepas stress, saya punya banyak sekali ilmu, coba tanya.... \n"
-        "Pembuat \n"
     )
 
 
